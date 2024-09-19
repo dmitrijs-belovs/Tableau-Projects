@@ -19,7 +19,7 @@ This information allows analyzing differences between customers who left and sta
 
 The dataset is pre-processed, ensures data quality and consistency, and allows to start directly with data analysis.
 
-### Analysis Dasboard
+### Analysis Dashboard
 
 
 
