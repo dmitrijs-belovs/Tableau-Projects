@@ -8,17 +8,19 @@ This repository contains various data analysis projects completed in Tableau tha
 
 ### Description
 
-The first project includes an analysis of customer churn in Telco, a fictional telecommunications company that provides home phone and Internet services to customers in California. The Telco dataset is widely used for practicing data analysis, and is available for download on this [Kaggle page](https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data).
+The first project includes an analysis dashboard of customer churn in Telco, a fictional telecommunications company that provided home phone and Internet services to 7043 customers in California in Q3. The [Telco dataset](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) is an IBM sample dataset that is widely used for practicing data analysis and machine learning. It consists of 6 .xslx files and contains information on:
 
-The dataset contains information on:
-
-* customer churn - which customers left last month and which stayed
+* demographic info about customers – gender, age, martial status, dependents and location
+* customer account info – tenure, contract, payment method, paperless billing, monthly charges, and total charges
 * services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-* customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
-* demographic info about customers – gender, age range, and if they have partners and dependents
+* customer churn metrics - churn label (which customers left and which stayed), churn score, churn resaon and CLTV
 
-This information allows analyzing differences between customers who left and stayed by services signed up for, account information, and demographic info. Furthermore, it allows calculations of customer lifetime value (CLTV) and other key churn metrics. All of this should help explore possible reasons for customer churn and design customer retention strategies.
+This information allows analyzing differences between customers who left and stayed by demographic info, account info, and services signed up for. Furthermore, it allows analyzing churn reasons and other key churn metrics such as churn score and customer lifetime value (CLTV). All of this should help explore possible reasons for customer churn and design customer retention strategies.
 
-### ...
+The dataset is pre-processed, ensures data quality and consistency, and allows to start directly with data analysis.
+
+### Analysis Dasboard
+
+
 
 ## ...
