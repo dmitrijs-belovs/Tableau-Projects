@@ -1,4 +1,4 @@
-# Data-Analysis-in-Tableau
+# Tableau-Projects
 
 ## Introduction
 
