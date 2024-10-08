@@ -17,7 +17,7 @@ The first project includes an analysis dashboard of customer churn in Telco, a f
 
 This information allows analyzing differences between customers who left and stayed by demographic info, account info, and services signed up for. Furthermore, it allows analyzing other key churn metrics such as churn score and churn reason. All of this should help extract actionable insights for deisigning customer retention strategies.
 
-The dataset is pre-processed, ensures data quality and consistency, and allows to start directly with data vizualization.
+The dataset is pre-processed, ensures data quality and consistency, and allows to start directly with data visualization.
 
 ### Dashboard
 
