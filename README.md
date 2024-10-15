@@ -8,7 +8,7 @@ This repository contains various projects I have completed in Tableau to showcas
 
 ### Description
 
-The project includes an analysis dashboard of customer churn in Telco, a fictional telecommunications company that provided home phone and Internet services to 7043 customers in California in Q3. The [Telco dataset](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) is an IBM sample dataset that is widely used for practicing data analysis and machine learning. It consists of 6 .xslx files and contains information on different:
+The project includes an analysis dashboard of customer churn in Telco, a fictional telecommunications company that provided home phone and Internet services to 7043 customers in California in Q3. The [Telco dataset](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113) is an IBM sample dataset that is widely used for practicing data analysis and machine learning. It consists of 6 .xslx files and contains:
 
 * demographic info about customers – gender, age, martial status, dependents and location
 * customer account info – tenure, contract, payment method, paperless billing, monthly charges, and total charges
