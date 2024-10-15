@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains various projects I have completed in Tableau that showcase my data visualization and Tableau skills.
+This repository contains various projects I have completed in Tableau to showcase my data visualization and Tableau skills.
 
 ## Telco Customer Churn Analysis Dashboard
 
