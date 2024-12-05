@@ -13,7 +13,7 @@ The project includes an analysis dashboard of customer churn in Telco, a fiction
 * demographic info about customers – gender, age, martial status, dependents and location
 * customer account info – tenure, contract, payment method, paperless billing, monthly charges, and total charges
 * services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-* customer churn metrics - churn label (which customers left and which stayed), churn score, and churn reasaon
+* customer churn metrics - churn label (which customers left and which stayed), churn score, and churn reason
 
 This information allows analyzing differences between customers who left and stayed by demographic info, account info, and services signed up for. Furthermore, it allows analyzing other key churn metrics such as churn score and churn reason. All of this should help extract actionable insights for deisigning customer retention strategies.
 
@@ -23,9 +23,9 @@ The dataset is pre-processed, ensures data quality and consistency, and allows t
 
 [Link to the dashboard on Tableau Public.](https://public.tableau.com/views/TelcoCustomerChurn_17282233160740/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-I created a comprehensive dashboard that breaks down customer churn by most of the dimensions available in the dataset:
+I created a dashboard that breaks down customer churn by most of the dimensions available in the dataset:
 
-![image](https://github.com/user-attachments/assets/2b7736a1-aa7d-494b-81ea-92389460e8a8)
+![image](https://github.com/user-attachments/assets/5cc03364-017a-4a7f-a4a1-febbc87f6f2a)
 
 * There are 3 parameters: Demographic Info, Account Info, and Services Signed Up For, which allow to choose different demographic, account, and services dimensions and explore churn among them.
 * All graphs except Churn by Monthly and Total Charges work as filters activated by a click on the necessary dimension value.
