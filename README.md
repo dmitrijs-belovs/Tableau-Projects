@@ -25,7 +25,7 @@ The dataset is pre-processed, ensures data quality and consistency, and allows t
 
 I created a dashboard that breaks down customer churn by most of the dimensions available in the dataset:
 
-![image](https://github.com/user-attachments/assets/5cc03364-017a-4a7f-a4a1-febbc87f6f2a)
+![image](https://github.com/user-attachments/assets/8fb85d6f-47be-4e03-805a-9062e3690002)
 
 * There are 3 parameters: Demographic Info, Account Info, and Services Signed Up For, which allow to choose different demographic, account, and services dimensions and explore churn among them.
 * All graphs except Churn by Monthly and Total Charges work as filters activated by a click on the necessary dimension value.
