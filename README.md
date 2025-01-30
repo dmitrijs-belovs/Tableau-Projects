@@ -23,7 +23,7 @@ The dataset is pre-processed, ensures data quality and consistency, and allows t
 
 [Link to the dashboard on Tableau Public.](https://public.tableau.com/views/TelcoCustomerChurn_17282233160740/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-I created a dashboard that breaks down customer churn by most of the dimensions available in the dataset:
+I created an interactive dashboard that breaks down customer churn by most of the dimensions available in the dataset:
 
 ![image](https://github.com/user-attachments/assets/57c74405-19fa-4589-bc8d-bc40134193e6)
 
